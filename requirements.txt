@@ -1,3 +1,4 @@
+rr-ml # HACK to fix issues with having both cu11 and cu12 libs in the same env
 torch
 torchvision>=0.5
 opencv-python
